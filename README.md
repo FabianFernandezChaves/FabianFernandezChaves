@@ -1,10 +1,6 @@
 # 👋 Hi! I'm Fabian Fernandez Chaves
 
 I am a **frontend developer** with experience in building web and mobile applications, combining functionality and design. My focus is on delivering efficient solutions using modern technologies.
----
-
-**Availability**: I am available for relocation and open to opportunities that require migration.
-
 
 ## 🚀 Technologies I work with:
 - ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,6 +37,10 @@ I am a **frontend developer** with experience in building web and mobile applica
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/fabian-fernandez-chaves)
 - [Email](mailto:fabian.fernandezchaves@gmail.com)
+
+---
+
+**Availability**: I am available for relocation and open to opportunities that require migration.
 
 ---
 
