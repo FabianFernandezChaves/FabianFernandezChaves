@@ -26,7 +26,7 @@ I am a **frontend developer** with experience in building web and mobile applica
 - **IDEs**: Visual Studio Code, Android Studio
 
 ## 🔧 Currently working on:
-- Developing an **Event Management System** with **React** and **Tailwind**, integrated with a relational database for event and user management.
+- Developing an **Event Management System** with **React/NEXTJS** and **Tailwind**, integrated with a relational database for event and user management.
 
 ### 🌱 Learning **Flutter**: I am exploring this technology to develop cross-platform mobile applications, focusing on widget architecture, state management, and performance optimization.
 
