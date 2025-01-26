@@ -37,7 +37,8 @@ I am a **frontend developer** with experience in building web and mobile applica
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/fabian-fernandez-chaves)
 - [Email](mailto:fabian.fernandezchaves@gmail.com)
-
+- [Portfolio](http://fafechaportfolio.s3-website.us-east-2.amazonaws.com/)
+- 
 ---
 
 **Availability**: I am available for relocation and open to opportunities that require migration.
